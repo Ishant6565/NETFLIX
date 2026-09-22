@@ -1,0 +1,9 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "Netflix Clone static website",
+  "scripts": {
+    "build": "echo 'Build successful'",
+    "start": "echo 'Static site running'"
+  }
+}
